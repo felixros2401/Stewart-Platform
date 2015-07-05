@@ -20,3 +20,12 @@ The Netherlands
 2015
 
 www.felixros.com
+
+REQUIRED LIBRARIES:
+
+ARDUINO: 
+* Servo.h
+
+PROCESSING:
+* processing.serial
+* controlP5
